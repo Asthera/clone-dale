@@ -15,7 +15,7 @@ def home():
     </head>
     <body>
         <h1>Welcome to Our Simple Flask App</h1>
-        <p>This page is served directly from the Flask route.</p>
+        <p>This page is served directly from the Flask route. </p>
     </body>
     </html>
     """
