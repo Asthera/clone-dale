@@ -7,7 +7,7 @@ from io import BytesIO
 
 app = Flask(__name__)
 
-# Initialize the model only once to save resources
+# Initialize the model only once to save resource
 pipe = DiffusionPipeline.from_pretrained("CompVis/stable-diffusion-v1-4", torch_dtype=torch.float16)
 pipe.to("cuda")
 
