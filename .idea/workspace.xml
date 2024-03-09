@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea9108f-45be-4f87-8c86-3347d0a54bf2" name="Changes" comment="changed req.txt, add procfile">
+    <list default="true" id="6ea9108f-45be-4f87-8c86-3347d0a54bf2" name="Changes" comment="chang app.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +133,7 @@
       <workItem from="1709997149179" duration="75000" />
       <workItem from="1709997226405" duration="51000" />
       <workItem from="1709997279038" duration="2403000" />
-      <workItem from="1709999688094" duration="500000" />
+      <workItem from="1709999688094" duration="921000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -207,7 +207,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709999854653</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="chang app.py">
+      <option name="closed" value="true" />
+      <created>1710000201549</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710000201549</updated>
+    </task>
+    <task id="LOCAL-00011" summary="chang app.py">
+      <option name="closed" value="true" />
+      <created>1710000214970</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710000214970</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +248,8 @@
     <MESSAGE value="added reuqrements" />
     <MESSAGE value="changed main - app.py" />
     <MESSAGE value="changed req.txt, add procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed req.txt, add procfile" />
+    <MESSAGE value="chang app.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="chang app.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/clone_dale$main.coverage" NAME="main Coverage Results" MODIFIED="1709997548129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
